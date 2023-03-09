@@ -1,1 +1,1 @@
-# My Klipper Config Sapphire Plus SP5
+# My Klipper Sapphire Plus SP5 Config
